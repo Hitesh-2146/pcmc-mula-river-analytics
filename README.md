@@ -5,7 +5,7 @@
 
 ### 📊 [Click Here to View the Interactive Dashboard](YOUR_POWER_BI_PUBLIC_LINK_HERE)
 
-![Trees Analysis Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/Screenshot%202026-05-21%20160022.jpg)
+![Trees Analysis Dashboard] https://github.com/Hitesh-2146/pcmc-mula-river-analytics/blob/fc70bc7e370778728a55789687fcf795340cf3c2/PCMC%20River%20Rejuvenation%20Dashboard.png
 
 ### 📌 Project Overview
 Built a specialized environmental data tracking and analysis dashboard for the PCMC Mula River Rejuvenation Project. This initiative stands as one of the largest municipal development frameworks under the Pimpri-Chinchwad Municipal Corporation. The dashboard empowers project managers and conservation teams to dynamically monitor tree health, structural dimensions, and field actions.
