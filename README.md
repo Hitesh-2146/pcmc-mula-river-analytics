@@ -3,7 +3,8 @@
 
 # PCMC Mula River Rejuvenation Project - Trees Analysis Dashboard
 
-### 📊 [Click Here to View the Interactive Dashboard](YOUR_POWER_BI_PUBLIC_LINK_HERE)
+### 📊 [Click Here to View the Interactive Dashboard](YOUR_POWER_BI_PUBLIC_LINK_HERE 
+(https://github.com/Hitesh-2146/pcmc-mula-river-analytics/blob/a202f3b11a3a94155d907ae56063a62542525b20/PCMC%20River%20Rejuvenation%20Dashboard.pbix))
 
 ![Trees Analysis Dashboard] https://github.com/Hitesh-2146/pcmc-mula-river-analytics/blob/fc70bc7e370778728a55789687fcf795340cf3c2/PCMC%20River%20Rejuvenation%20Dashboard.png
 
